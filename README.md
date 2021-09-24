@@ -1,9 +1,9 @@
-#Point of Sale (POS) System
+Point of Sale (POS) System
 
 #Description
 Point of sale software is used by the retailers to conduct sales in person. It's sometimes a cash register, computer, or even a tablet where cashiers input products, tally the cost, and conduct the financial transaction.
 
-Technologies used
+*Technologies used
 Java 8
 MySQL
 Spring Boot
